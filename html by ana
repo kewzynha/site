@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  
+  <title>Três< Botões</title>
+  
+  <style>
+    h2 {
+      font-family: 'Lora', serif;
+      color: purple;
+    }
+  </style>
+</head>
+  
+<body>
+  <h1>Desenvolvimento de site em HTML</h1>
+  <h2 style="font-weight: normal; ">Discplina de Introdução às Tecnologias Web - Prof. Maurício</h2>
+
+  <button>Sistemas de Informação</button>
+
+  <button>Instituto Federal de Alagoas</button>
+
+  <footer style="text-align: center; border-top: 1px solid #ddd; padding-top: 20px; color: #666;">
+    <p>developed by ana.</p>
+  </footer>
+  
+</body>
+</html>
