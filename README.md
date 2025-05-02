@@ -8,11 +8,12 @@
   <h1>Desenvolvimento de site em HTML</h1>
   <h2>Introdução às Tecnologias Web</h2>
 
-  <button>Sistemas de Informação</button>
+  <button>Sistemas de Informação - </button>
   <button>Instituto Federal de Alagoas</button>
 
   <footer>
-    <p>developed by ana</p>
+    <p>Desenvolvido por Ana.</p>
   </footer>
+  
 </body>
 </html>
